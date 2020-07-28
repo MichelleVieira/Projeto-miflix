@@ -1,2 +1,0 @@
-# Projeto-miflix
-Imersão React
